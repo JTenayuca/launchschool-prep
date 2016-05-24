@@ -1,0 +1,1 @@
+#A hash uses key-value pairs.

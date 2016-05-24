@@ -1,0 +1,1 @@
+#Exception handling is the code used to manage bugs/errors in a program. It prevents the program from automatically exiting and can create a log.
